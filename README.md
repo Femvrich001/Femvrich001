@@ -23,7 +23,7 @@ Data Analyst | Python Enthusiast | Data Visualization Wizard
 - Data Visualization
 - Python
 - SQL
-- Machine Learning (optional if applicable)
+- Machine Learning 
 - Data Cleaning and Preprocessing
 - Statistical Analysis
 - [Additional skill 1]
